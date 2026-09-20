@@ -57,5 +57,7 @@ build = {
     },
     copy_directories = {
         "tests",
+        "examples",
+        "assets",
     },
 }
